@@ -1,1 +1,0 @@
-bin\zc_bot.exe --emulator_type "bluestacks" --config_file "config.txt"
