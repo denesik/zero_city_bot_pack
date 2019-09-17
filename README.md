@@ -1,4 +1,3 @@
-zero_city_bot_pack
 Zero-City Bot (PC Lazy castle analog)
 
 discord: https://discord.gg/x6rXGjZ
