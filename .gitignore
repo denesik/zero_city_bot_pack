@@ -25,3 +25,4 @@ config.json
 /NoxPlayer1_netlog.txt
 /set_token.cmd
 *.blacklist
+/.update/
