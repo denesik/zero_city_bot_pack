@@ -26,3 +26,4 @@ config.json
 /set_token.cmd
 *.blacklist
 /.update/
+/bin/config_editor.txt

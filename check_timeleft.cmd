@@ -1,0 +1,1 @@
+bin\zc_bot.exe --additionally "timeleft"
