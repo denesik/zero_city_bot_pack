@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2019-12-02 06:25+0300\n"
-"PO-Revision-Date: 2019-12-03 07:25+0300\n"
+"PO-Revision-Date: 2020-04-22 07:17+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: EditorAdv.cpp:14
 msgid "advertising_apple"
-msgstr "Wyświetl reklamy, jeśli zabraknie jabłek"
+msgstr "Wyświetl reklamy, jeśli zabraknie Hamburgerów"
 
 #: EditorAdv.cpp:20
 msgid "advertising_adv_chest"
@@ -34,7 +34,7 @@ msgstr "Obejrzyj Reklamy na Arenie"
 
 #: EditorAdv.cpp:38
 msgid "advertising_portal"
-msgstr "Wyświetl reklamy w portalu"
+msgstr "Wyświetl reklamy w Tunelu"
 
 #: EditorAdv.cpp:44
 msgid "advertising_train_room"
@@ -46,11 +46,11 @@ msgstr "Zobacz reklamy w Evencie"
 
 #: EditorAdv.cpp:56
 msgid "advertising_donkey"
-msgstr "Zobacz reklamy osła"
+msgstr "Zobacz reklamy Eventu(typ Osioł)"
 
 #: EditorApp.cpp:87
 msgid "bot_name"
-msgstr "Hustle Castle Bot"
+msgstr "Zero City Bot"
 
 #: EditorArena.cpp:15 EditorBay.cpp:14 EditorEnemy.cpp:14 EditorEvent.cpp:13
 #: EditorInvasion.cpp:14 EditorPortal.cpp:14
@@ -67,7 +67,7 @@ msgstr "Tryb"
 
 #: EditorArena.cpp:54
 msgid "arena_ticket_0"
-msgstr "Za jabłka"
+msgstr "Za Hamburgery"
 
 #: EditorArena.cpp:55
 msgid "arena_ticket_1"
@@ -75,11 +75,11 @@ msgstr "Za bilety"
 
 #: EditorArena.cpp:56
 msgid "arena_ticket_2"
-msgstr "Jabłka potem bilety"
+msgstr "Hamburgery potem bilety"
 
 #: EditorArena.cpp:57
 msgid "arena_ticket_3"
-msgstr "Bilety potem jabłka"
+msgstr "Bilety potem Hamburgery"
 
 #: EditorArena.cpp:69
 msgid "arena_my_power_scale"
@@ -111,25 +111,25 @@ msgstr "Pełny opis"
 
 #: EditorArena.cpp:119
 msgid "arena_ticket_buy"
-msgstr "Kup Bilety za diamenty"
+msgstr "Kup Bilety za Coinsy"
 
 #: EditorBay.cpp:23 EditorEnemy.cpp:57 EditorEvent.cpp:22 EditorInvasion.cpp:23
 #: EditorPortal.cpp:40
 msgid "battle_magic_health_less"
-msgstr "Użyj zaklęć, jeśli zdrowie jest mniejsze niż"
+msgstr "Użyj Boosta, jeśli zdrowie jest mniejsze niż"
 
 #: EditorBay.cpp:36 EditorEnemy.cpp:70 EditorEvent.cpp:34 EditorInvasion.cpp:36
 #: EditorPortal.cpp:53
 msgid "battle_relic"
-msgstr "Użyj relikwii"
+msgstr "Użyj boostów"
 
 #: EditorBay.cpp:43
 msgid "bay_apple"
-msgstr "Bay za jabłka"
+msgstr "Rs za Hamburgery"
 
 #: EditorBay.cpp:49
 msgid "bay_diamond"
-msgstr "Bay za diamenty"
+msgstr "RS za Coinsy"
 
 #: EditorConditions.cpp:11
 msgid "execution_conditions"
@@ -141,7 +141,7 @@ msgstr "Czas realizacji"
 
 #: EditorConditions.cpp:33
 msgid "conditions_time_begin"
-msgstr "Z"
+msgstr "Zaczęcie"
 
 #: EditorConditions.cpp:39 EditorConditions.cpp:52 EditorConditions.cpp:55
 #: EditorConditions.cpp:58 EditorConditions.cpp:102 EditorConditions.cpp:355
@@ -183,7 +183,7 @@ msgstr "Przez"
 
 #: EditorConditions.cpp:128
 msgid "conditions_apple"
-msgstr "Jabłka"
+msgstr "Hamburgery"
 
 #: EditorConditions.cpp:138 EditorConditions.cpp:174 EditorConditions.cpp:210
 #: EditorConditions.cpp:277 EditorConditions.cpp:293 EditorConditions.cpp:309
@@ -199,11 +199,11 @@ msgstr "Więcej"
 
 #: EditorConditions.cpp:164
 msgid "conditions_gold"
-msgstr "Złoto"
+msgstr "Pieniądze"
 
 #: EditorConditions.cpp:200
 msgid "conditions_mana"
-msgstr "Mana"
+msgstr "Gumi Sok"
 
 #: EditorConditions.cpp:236
 msgid "conditions_probability"
@@ -228,7 +228,7 @@ msgstr "Oglądaj reklamy, jeśli przegrasz walkę"
 
 #: EditorEvent.cpp:44
 msgid "event_buy"
-msgstr "Kup za diamenty"
+msgstr "Kup za Coinsy"
 
 #: EditorFrame.cpp:28
 msgid "update_not_required"
@@ -240,7 +240,7 @@ msgstr "Wymagana aktualizacja"
 
 #: EditorFrame.cpp:33
 msgid "update"
-msgstr "Odśwież"
+msgstr "Ulepsz"
 
 #: EditorFrame.cpp:44
 msgid "language"
@@ -256,15 +256,15 @@ msgstr "Inwazje"
 
 #: EditorFrame.cpp:69
 msgid "enemy"
-msgstr "Wrogowie"
+msgstr "PVP(Mapa)"
 
 #: EditorFrame.cpp:70
 msgid "portal"
-msgstr "Portal"
+msgstr "Tunnel"
 
 #: EditorFrame.cpp:71
 msgid "bay"
-msgstr "Bay"
+msgstr "Railway Station(RS)"
 
 #: EditorFrame.cpp:72
 msgid "advertising"
@@ -288,7 +288,7 @@ msgstr "Opcje"
 
 #: EditorFrame.cpp:77
 msgid "log"
-msgstr "log"
+msgstr "Informacje"
 
 #: EditorFrame.cpp:93
 msgid "status_launched"
@@ -332,7 +332,7 @@ msgstr "Użyj zmartwychwstania"
 
 #: EditorPortal.cpp:73
 msgid "portal_buy"
-msgstr "Kup jabłka za diamenty"
+msgstr "Kup Hamburgery za Coinsy"
 
 #: EditorProgram.cpp:31
 msgid "program_collect"
@@ -340,7 +340,7 @@ msgstr "Zbieraj zasoby po ukończeniu trybu"
 
 #: EditorProgram.cpp:39
 msgid "program_pause"
-msgstr "Pauza po trybie (minuty)"
+msgstr "Pauza po trybie (Sekundy)"
 
 #: EditorResource.cpp:16
 msgid "request_type"
@@ -348,15 +348,15 @@ msgstr "Poproś o zasoby"
 
 #: EditorResource.cpp:23
 msgid "request_type_0"
-msgstr "Jabłka"
+msgstr "Hamburgery"
 
 #: EditorResource.cpp:24
 msgid "request_type_1"
-msgstr "Złoto"
+msgstr "Pieniadze"
 
 #: EditorResource.cpp:25
 msgid "request_type_2"
-msgstr "Mana"
+msgstr "Gumi Sok"
 
 #: EditorResource.cpp:34
 msgid "program_send_gift"
@@ -408,11 +408,11 @@ msgstr "zignorować niepełny komunikat hp"
 
 #: EditorSettings.cpp:155
 msgid "open_timeout"
-msgstr ""
+msgstr "Ponów Próbe"
 
 #: EditorSettings.cpp:170
 msgid "start_program_pause"
-msgstr ""
+msgstr "Zacznij Program Pauzy"
 
 #: EditorSettings.cpp:185
 msgid "another_device_timeout"
