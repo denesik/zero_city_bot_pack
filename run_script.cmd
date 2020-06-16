@@ -1,1 +1,1 @@
-bin\zc_bot.exe --emulator_type "nox" --additionally "script" --config_file "config.txt" --algorithm_file "alg_1.chai"
+bin\zc_bot.exe --emulator_type "nox" --additionally "script" --config_file "config.txt" --algorithm_file "bin\end_game.chai"
